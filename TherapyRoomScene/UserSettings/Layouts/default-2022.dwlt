@@ -119,7 +119,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 89
+  controlID: 143
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -144,7 +144,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 39
+  controlID: 77
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -169,7 +169,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 50}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 40
+  controlID: 78
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -189,8 +189,8 @@ MonoBehaviour:
     y: 0
     width: 199.55556
     height: 579.1111
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 201, y: 221}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 12}
   m_Panes:
   - {fileID: 12}
@@ -215,8 +215,8 @@ MonoBehaviour:
     y: 0
     width: 1249.7778
     height: 579.1111
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 202, y: 221}
+  m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 13}
@@ -269,8 +269,8 @@ MonoBehaviour:
     y: 0
     width: 257.33325
     height: 819.7778
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 276, y: 71}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 17}
   m_Panes:
   - {fileID: 17}
@@ -312,10 +312,10 @@ MonoBehaviour:
     m_OverlaysVisible: 1
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 128}
-      m_SelectedIDs: 2a630000
-      m_LastClickedID: 25386
-      m_ExpandedIDs: a258feff2265feff7a9afeff58befeffa0d4feff2297ffffba9fffff18fbffff
+      scrollPos: {x: 0, y: 336}
+      m_SelectedIDs: 12f8ffff
+      m_LastClickedID: -2030
+      m_ExpandedIDs: 549cffff12aaffff96aaffffa0aaffffaaaaffffc8b0ffffdab0ffffd8baffffe0baffffe8bafffff8baffff1ebbffff26bbffff2ebbffff38bbffffe2beffff94bfffff0ec2ffff38c2ffff42c2ffffe2c4ffffbcc5ffff8cc6ffff04c8ffff24c9fffff8cfffff56d7ffff86d8ffff5ad9ffffb6daffffcedbffffbadcffffeaddffffa6deffffaae0ffffa2e1ffffc6e2ffff8ee3ffff6eefffff9cf6ffffc2f6ffffdcf6ffff02f7ffff18f7ffff2af7ffff50f7ffff66f7ffff8cf7ffffbcf7ffffd2f7fffffaf7ffff0af8ffff12f8ffff38f8ffff5ef8ffff74f8ffff86f8ffff9cf8ffffc2f8ffffd6f8fffffcf8ffff2cf9ffff32f9ffff58f9ffff88f9ffffacf9ffffdaf9fffff8f9ffff0efaffff28faffff4efaffff64faffff78faffff9efaffffb4faffffcafafffff8faffff2efbffff30fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -682,9 +682,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 20.45205, y: 0.8999455, z: -12.149519}
+    m_Target: {x: 1.7929097, y: 4.638608, z: 11.227247}
     speed: 2
-    m_Value: {x: 20.45205, y: 0.8999455, z: -12.149519}
+    m_Value: {x: 1.79291, y: 4.638608, z: 11.227247}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -730,13 +730,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.03245367, y: 0.94188064, z: -0.095965825, w: 0.3203532}
+    m_Target: {x: 0.008124133, y: 0.49005815, z: 0.00464229, w: -0.87171054}
     speed: 2
-    m_Value: {x: 0.031972684, y: 0.9420104, z: -0.09455157, w: 0.32039705}
+    m_Value: {x: 0.006822067, y: 0.4887262, z: 0.0038965894, w: -0.87240183}
   m_Size:
-    m_Target: 7.263114
+    m_Target: 6.5839815
     speed: 2
-    m_Value: 7.605355
+    m_Value: 6.8942213
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -904,7 +904,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Brick Project Studio/Apartment Kit/Common/Models
+    - Assets/Brick Project Studio/Apartment Kit/_Prefabs/Props/Art
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
@@ -912,27 +912,27 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Brick Project Studio/Apartment Kit/Common/Models
+  - Assets/Brick Project Studio/Apartment Kit/_Prefabs/Props/Art
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\sange\OneDrive\Documents\GitHub\TherapyRoom\TherapyRoomScene
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 312.3333}
-    m_SelectedIDs: aa7b0000
-    m_LastClickedID: 31658
-    m_ExpandedIDs: 000000005459000062590000f86c0000fc6c0000006d0000886d00008c6d000012710000227200003a75000042750000f27900004e7b0000567b00005e7b0000627b00006e7b000000ca9a3b
+    scrollPos: {x: 0, y: 248.33331}
+    m_SelectedIDs: b86b0000
+    m_LastClickedID: 27576
+    m_ExpandedIDs: 000000005e5e0000605e0000625e0000645e0000665e0000685e00006a5e00006c5e00006e5e0000705e0000725e0000de5e0000f05e0000fe5e00000e5f0000105f0000145f0000b26b000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: Prefab
-      m_OriginalName: Prefab
+      m_Name: Textures
+      m_OriginalName: Textures
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 27912
+      m_UserData: 24290
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
       m_OriginalEventType: 0
@@ -949,7 +949,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 
+    m_ExpandedIDs: 000000005e5e0000605e0000625e0000645e0000665e0000685e00006a5e00006c5e00006e5e0000705e0000725e0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1001,7 +1001,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 0}
+    m_ScrollPosition: {x: 0, y: 18.333313}
     m_GridSize: 64
   m_SkipHiddenPackages: 0
   m_DirectoriesAreaWidth: 207
